@@ -4,13 +4,6 @@
   "description": "Framework aimed to provide useful TypeScript decorators to implement controllers, services and request handlers, built with Fastify.",
   "main": "index.js",
   "typings": "index.d.ts",
-  "typesVersions": {
-    "<3.9": {
-      "*": [
-        "ts3.4/*"
-      ]
-    }
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/L2jLiga/fastify-decorators.git"
