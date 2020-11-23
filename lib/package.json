@@ -22,6 +22,10 @@
     "./testing": {
       "import": "./testing/index.js",
       "require": "./testing/index.cjs"
+    },
+    "./plugins": {
+      "import": "./plugins/index.js",
+      "require": "./plugins/index.cjs"
     }
   },
   "repository": {
